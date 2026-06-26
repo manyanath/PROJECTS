@@ -3,4 +3,4 @@
 https://manyanath.github.io/PROJECTS/LandingPage/
 
 **Live Demo (Portfolio):**
-https://manyanath.github.io/PROJECTS/PeronalPortfolio/
+https://manyanath.github.io/PROJECTS/PersonalPortfolio/
